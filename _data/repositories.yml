@@ -1,7 +1,11 @@
 github_users:
   - knaticat
+  - cebpLab
 
 github_repos:
   - knaticat/Deep-Worm-Tracker
   - knaticat/Flocking-Simulation
   - knaticat/Epidemic-Simulator
+  - knaticat/LDG-Diversification-Rates
+  - cebpLab/Immune-Response
+
