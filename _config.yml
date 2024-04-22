@@ -162,7 +162,9 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-
+    
+## CV stuff --------------
+cv_pdf: 20240328_Shoubhik_CV.pdf
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
