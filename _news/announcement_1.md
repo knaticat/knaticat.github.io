@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-01 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I have started my PhD studies in Dr. Albert Kao's lab at UMass Boston in understanding collective decision making in animals.
