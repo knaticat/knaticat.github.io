@@ -35,6 +35,9 @@ I am learning how to take pictures of all the cool creatures we are surrounded b
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/IMG_0389.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_5861.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
 
