@@ -6,4 +6,4 @@ description: As an academic, I am also an educator and deeply value the transfor
 nav: true
 nav_order: 5
 ---
-###### Fall 2023: [BIOL 347 Animal Behavior Lab](https://drive.google.com/drive/folders/1SKfu7wKwW5YQc57MT9bVcljNFkpVIz-8?usp=sharing)
+###### [BIOL 347 Animal Behavior Lab](https://drive.google.com/drive/folders/1SKfu7wKwW5YQc57MT9bVcljNFkpVIz-8?usp=sharing)

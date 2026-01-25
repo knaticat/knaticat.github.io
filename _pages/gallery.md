@@ -6,6 +6,38 @@ description: Here are some highlights from my favorite moments in life and a few
 nav: true
 nav_order: 6
 ---
+
+## Wildlife Photography
+I am learning how to take pictures of all the cool creatures we are surrounded by which are perfect subjects for my lens!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0206.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0235.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0248.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0287.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0312.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0342.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0353_crop.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_0389.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
 ## Art
 
 I'm passionate about birds and spend a lot of time birdwatching and sketching them on the go. [This](https://johnmuirlaws.com/) website was my inspiration to begin bird sketching.
