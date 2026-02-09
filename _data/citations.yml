@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-02-09'
 papers:
   mXAfNjYAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Timing decisions as the next frontier for collective intelligence
     year: '2024'
   mXAfNjYAAAAJ:u-x6o8ySG0sC:
-    citations: 39
+    citations: 41
     title: 'Deep-worm-tracker: Deep learning methods for accurate detection and tracking for behavioral studies in C. elegans'
     year: '2023'
   mXAfNjYAAAAJ:u5HHmVD_uO8C:
