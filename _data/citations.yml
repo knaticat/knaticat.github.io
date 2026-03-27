@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-27'
 papers:
+  mXAfNjYAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: Association of Parameters of Pulmonary Function Test and Nephropathy among Diabetic Patients
+    year: '2020'
   mXAfNjYAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'A tale of two birds: cognitive simplicity drives collective route improvements in homing pigeons'
     year: '2025'
   mXAfNjYAAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 13
     title: Timing decisions as the next frontier for collective intelligence
     year: '2024'
   mXAfNjYAAAAJ:u-x6o8ySG0sC:
-    citations: 42
+    citations: 44
     title: 'Deep-worm-tracker: Deep learning methods for accurate detection and tracking for behavioral studies in C. elegans'
     year: '2023'
   mXAfNjYAAAAJ:u5HHmVD_uO8C:
