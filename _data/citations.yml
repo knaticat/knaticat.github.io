@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-09-02'
 papers:
   mXAfNjYAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,17 +10,17 @@ papers:
     title: 'A tale of two birds: cognitive simplicity drives collective route improvements in homing pigeons'
     year: '2025'
   mXAfNjYAAAAJ:d1gkVwhDpl0C:
-    citations: 16
+    citations: 18
     title: Timing decisions as the next frontier for collective intelligence
     year: '2024'
   mXAfNjYAAAAJ:qjMakFHDy7sC:
     citations: 0
-    title: Cognitive simplicity drives collective route improvements in homing pigeons.
+    title: Cognitive simplicity drives collective route improvements in homing pigeons
     year: '2026'
   mXAfNjYAAAAJ:u-x6o8ySG0sC:
-    citations: 51
-    title: 'Deep-Worm-Tracker: Deep Learning Methods for Accurate Detection and Tracking for Behavioral Studies in C. elegans'
-    year: '2022'
+    citations: 53
+    title: 'Deep-worm-tracker: Deep learning methods for accurate detection and tracking for behavioral studies in C. elegans'
+    year: '2023'
   mXAfNjYAAAAJ:u5HHmVD_uO8C:
     citations: 4
     title: Persistent correlation in cellular noise determines longevity of viral infections
